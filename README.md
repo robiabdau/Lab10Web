@@ -1,8 +1,11 @@
-# Lab10Web - Praktikum 10
-
-**Nama      : Wahyudi Hermawan <br>
-NIM       : 311910106 <br>
-Kelas     : TI.19.B1 <br>**
+# Lab10Web
+```bash
+Nama      : Robi Abda'u
+NIM       : 311910563
+Kelas     : TI.19.B1
+M. Kuliah : Pemograman Web
+Dosen     : Agung Nugroho,S.Kom.,M.Kom
+```
 
 # Praktikum 10
 **1. Membuat file mobil.php <br>**
